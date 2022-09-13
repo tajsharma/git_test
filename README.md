@@ -1,3 +1,2 @@
-# git_test
+# landing page
 elevated
-Hello odin!
