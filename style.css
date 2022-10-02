@@ -49,4 +49,6 @@ h2{
 .holder{
     display:flex;
     justify-content: center;
+    padding: 40px;
+    gap:70px;
 }
