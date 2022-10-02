@@ -37,3 +37,16 @@ h2{
 .imageLeftLink{
     margin:5px;
 }
+
+.contentContainer{
+    display:flex;
+}
+
+.textContainer{
+    width:20%;
+}
+
+.holder{
+    display:flex;
+    justify-content: center;
+}
