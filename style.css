@@ -6,6 +6,9 @@
 
 #blockImage{
     width:400px;
+    border-radius: 15px;
+    border-style: solid;
+    padding: 5px;
 }
 body{
     margin: 0px;
