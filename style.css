@@ -66,7 +66,7 @@ h2{
 .item{
     width: 300px;
     height: 300px;
-    
+    text-align:center;
 }
 
 .content{
@@ -79,4 +79,7 @@ h2{
     border-radius: 15px;
     border-style:solid;
     padding:5px
+}
+.caption{
+    margin-top: 5px;
 }
