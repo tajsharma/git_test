@@ -110,7 +110,16 @@ h2{
     color:rgb(155, 195,255);
 }
 
-.signUp{
+.signUpDiv{
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer{
+    background-color: navy;
+    color:white;
     height: 350px;
 }
 
