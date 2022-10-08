@@ -65,6 +65,8 @@ h2{
 }
 .imageContainer{
     display:flex;
+    width:80%;
+    justify-content: space-around;
 }
 .item{
     width: 300px;
