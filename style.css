@@ -23,7 +23,8 @@ h2{
 
 .linkContainer{
     width: 100%;
-    position: fixed;
+    position: sticky;
+    top:0px;
     background: cornflowerblue;
 }
 .links{
@@ -34,6 +35,7 @@ h2{
     border-radius: 10px;
     border-color: rgb(0, 41, 77);
     align-items: center;
+    margin-top: 0px;
 }
 
 .rightLinks{
