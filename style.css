@@ -93,9 +93,14 @@ h2{
     font-size: larger;
     font-weight: 500;
     text-align: center;
-    background-color: rgb(155, 195, 255);
+    background-color:rgb(255, 253, 250);
 }
 
 .quoteBox{
     width: 60%;
+    color:rgb(155, 195,255);
+}
+
+.name{
+    color:rgb(155, 195,255);
 }
