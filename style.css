@@ -21,6 +21,11 @@ h2{
     font-style:italic;
 }
 
+.linkContainer{
+    width: 100%;
+    position: fixed;
+    background: cornflowerblue;
+}
 .links{
     display:flex;
     justify-content: space-between;
@@ -125,4 +130,3 @@ h2{
     align-items: center;
     justify-content: center;
 }
-
