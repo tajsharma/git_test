@@ -39,6 +39,7 @@ h2{
 }
 
 .rightLinks{
+    list-style-type: none;
     display:flex;
     gap:30px;
     margin: 5px;
