@@ -21,7 +21,7 @@ h2{
     font-style:italic;
 }
 
-.linkContainer{
+.stickylinkContainer{
     width: 100%;
     position: sticky;
     top:0px;
