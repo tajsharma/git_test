@@ -141,8 +141,8 @@ h2{
 
 .bottomContainer{
     display:flex;
-    width: 600px;
-    height:200px;
+    width: 800px;
+    height:100px;
     background-color: rgb(71, 135, 255);
     border-radius: 5px;
 }
