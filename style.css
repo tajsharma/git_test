@@ -141,6 +141,7 @@ h2{
 
 .bottomContainer{
     display:flex;
+    justify-content: space-evenly;
     width: 800px;
     height:100px;
     background-color: rgb(71, 135, 255);
@@ -155,4 +156,9 @@ button{
     border-radius: 5px;
     height: 30px;
     width: 90px;
+}
+
+.buttonDiv{
+    display: flex;
+    align-items: center;
 }
