@@ -146,6 +146,7 @@ h2{
     height:100px;
     background-color: rgb(71, 135, 255);
     border-radius: 5px;
+    padding: 10px;
 }
 
 button{
